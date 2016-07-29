@@ -194,7 +194,7 @@ th {
   *:after {
     color: #000 !important;
     text-shadow: none !important;
-    background: transparent !important;
+    background: #2222FF !important;
     -webkit-box-shadow: none !important;
             box-shadow: none !important;
   }
@@ -2347,7 +2347,7 @@ table th[class*="col-"] {
 .table > thead > tr.active > th,
 .table > tbody > tr.active > th,
 .table > tfoot > tr.active > th {
-  background-color: #f5f5f5;
+  background-color: Blue;
 }
 .table-hover > tbody > tr > td.active:hover,
 .table-hover > tbody > tr > th.active:hover,
@@ -3991,7 +3991,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-  background-color: #eee;
+  background-color: Blue;
 }
 .nav > li.disabled > a {
   color: #777;
